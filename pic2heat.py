@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import matplotlib.pylab as lab
 from PIL import Image
+# goed bezig!
 
 def run(args):
 	i = args.input
